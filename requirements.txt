@@ -1,4 +1,3 @@
 pandas
-streamlit
 numpy
-python-math==0.0.1
+
